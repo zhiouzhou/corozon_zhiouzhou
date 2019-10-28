@@ -1,0 +1,30 @@
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In  -->
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="60px" height="60px" viewBox="0 0 60 60" style="overflow:scroll;enable-background:new 0 0 60 60;"
+	 xml:space="preserve">
+<defs>
+</defs>
+<g>
+	<circle style="fill:#48D36F;" cx="30" cy="30" r="30"/>
+	<g>
+		<rect x="14.597" y="44.811" style="fill:#FFFFFF;" width="12.566" height="1.876"/>
+		<rect x="31.852" y="44.811" style="fill:#FFFFFF;" width="13.785" height="1.876"/>
+		<path style="fill:#FFFFFF;" d="M34.759,17.054l7.877,7.877L25.381,42.186l-7.877-7.877L34.759,17.054z M34.759,17.054"/>
+		<path style="fill:#FFFFFF;" d="M37.947,13.96l7.877,7.877l-2.344,2.344l-7.877-7.877L37.947,13.96z M37.947,13.96"/>
+		<g>
+			<defs>
+				<rect id="SVGID_1_" x="13.566" y="13.269" width="32.868" height="33.462"/>
+			</defs>
+			<clipPath id="SVGID_2_">
+				<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+			</clipPath>
+			<path style="clip-path:url(#SVGID_2_);fill:#FFFFFF;" d="M16.754,35.153l7.877,7.877l-11.065,3.095L16.754,35.153z
+				 M16.754,35.153"/>
+			<path style="clip-path:url(#SVGID_2_);fill:#FFFFFF;" d="M40.948,13.866l4.876,4.876c0.844,0.844,0.75,2.157-0.094,3.001
+				c-0.844,0.844-2.251,0.938-3.001,0.094l-4.876-4.876c-0.844-0.75-0.844-2.157,0.094-3.001
+				C38.791,13.116,40.104,13.022,40.948,13.866L40.948,13.866z M40.948,13.866"/>
+		</g>
+	</g>
+</g>
+</svg>
